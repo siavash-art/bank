@@ -1,3 +1,3 @@
-module github.com/siavash-art/bank
+module github.com/siavash-art/bank/v2
 
 go 1.15
